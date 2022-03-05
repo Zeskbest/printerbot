@@ -1,0 +1,3 @@
+python-escpos
+python-telegram-bot
+sqlalchemy
